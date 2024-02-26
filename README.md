@@ -47,7 +47,7 @@ To use Helping Hand, simply run the script, and the GUI will appear. From there,
 
 ## Contributing
 
-Contributions are welcome! Please read the contributing guidelines before getting started.
+Contributions are welcome! Please read the [contributing guidelines](https://github.com/Shubham-Datta/Helping-Hand/blob/main/CONTRIBUTING.md) before getting started.
 
 ## License
 
