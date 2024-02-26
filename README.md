@@ -51,5 +51,5 @@ Contributions are welcome! Please read the [contributing guidelines](https://git
 
 ## License
 
-This project is licensed under the terms of the MIT License.
+This project is licensed under the terms of the [MIT License](https://github.com/Shubham-Datta/Helping-Hand/blob/main/LICENSE).
 
